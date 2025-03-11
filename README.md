@@ -122,3 +122,4 @@ This project leveraged Azure services, machine learning, and visualization tools
 2. Install the required dependencies:  
    ```bash
    pip install -r requirements.txt
+
